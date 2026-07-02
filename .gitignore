@@ -1,0 +1,18 @@
+# PowerShell
+*.ps1xml
+*.pssc
+*.psrc
+
+# Build output
+out/
+build/output/
+artifacts/
+
+# Test output
+TestResults/
+coverage/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
